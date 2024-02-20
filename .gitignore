@@ -1,0 +1,14 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+
+go.sum
+
+*.out
+
+# Go workspace file
+go.work
