@@ -1,4 +1,4 @@
-### How to use
+# How to use
 
 ## install
 Compile the binary into and install it on your system
